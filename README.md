@@ -36,8 +36,8 @@ Este perfil reúne meus estudos, experimentos e projetos ao longo da graduação
 ---
 
 ### 📫 Contato
--  Email: **sophiataddeon@gmail.com**
--  LinkedIn: [Sophia Taddeo Nascimento](https://www.linkedin.com/in/sophia-taddeo-nascimento-5318b3358)
+- 📧 Email: **sophiataddeon@gmail.com**
+- 💼 LinkedIn: [Sophia Taddeo Nascimento](https://www.linkedin.com/in/sophia-taddeo-nascimento-5318b3358)
 
 
 ⭐ Sinta-se à vontade para explorar os repositórios!
