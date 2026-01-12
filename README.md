@@ -1,36 +1,38 @@
-## Olá! 👋
+## Oi, eu sou a Sophia 👋
 
-Meu nome é Sophia e sou estudante de Ciência da Computação na FEI, com previsão de conclusão em 2028. Ao longo da minha formação acadêmica, venho construindo uma base sólida em tecnologia por meio de projetos acadêmicos e pessoais, com foco em desenvolvimento e aprendizado contínuo.
+Estudante de Ciência da Computação na FEI, explorando programação, lógica e desenvolvimento por meio de projetos acadêmicos e pessoais.  
+Este perfil reúne meus estudos, experimentos e projetos ao longo da graduação.
 
 ---
 
-### 💻 Tecnologias
+### ⭐ Tecnologias que venho utilizando
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="43" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ---
 
-### 📚 Experiências Acadêmicas e Extracurriculares
-
-- Participação em projetos e atividades do DACC (Departamento Acadêmico de Ciência da Computação)
-- Curso extracurricular Coletivo Coca-Cola, com desenvolvimento de competências interpessoais e visão de mercado de trabalho
-- Trabalho voluntário no FASE, atuando em ações sociais, organização de eventos e atividades educativas
-
----
-
-### 🌱 Sobre mim
-
-Sou uma pessoa proativa, organizada e comprometida, com facilidade de adaptação e iniciativa. Busco constantemente evoluir profissional e pessoalmente, aplicando meus conhecimentos em tecnologia e contribuindo de forma positiva em um ambiente de estágio.
+### ⭐ O que você vai encontrar aqui
+- Projetos da faculdade  
+- Exercícios e estudos de programação  
+- Aprendizado contínuo em tecnologia  
 
 ---
 
-📌 *Este perfil reúne projetos acadêmicos e estudos desenvolvidos ao longo da minha graduação em Ciência da Computação.*
+### ⭐ Atualmente estudando
+- Front-End  
+- Redes 
+- Java
+- POO
+
+---
+
+⭐ Sinta-se à vontade para explorar os repositórios!
