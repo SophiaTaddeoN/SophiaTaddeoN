@@ -8,7 +8,7 @@ Meu nome é Sophia e sou estudante de Ciência da Computação na FEI, com previ
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg](http://www.aptechsp.com.br/curso-de-linguagem-c/)" width="45" />
+  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/21daaa53-3f3e-4509-9e65-5c890c1ab06c" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
